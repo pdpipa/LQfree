@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/pdpipa/ipamap/main/download.jpg</string>
+					<string>https://raw.githubusercontent.com/pdpipa/LQfree/main/lqfree.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Liên Quân Free</string>
+				<string>Liên Quân Chơi Kín</string>
 			</dict>
 		</dict>
 	</array>
